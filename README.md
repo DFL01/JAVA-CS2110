@@ -45,17 +45,7 @@ Find the complete assignment description in the pdf inside corresponding folder.
 
 
 
-## Assignment a6:
-This assignment is designed to give you practice with the following skills:
--How to implement a class from its interface.
--How to enforce class invariants.
--How to use a classes to provide abstractions.
--How to write code for both 1-dimensional and 2-dimensional lists.
--How to manipulate images at the pixel level.
 
-Find the assignment description on the link below.
-https://www.cs.cornell.edu/courses/cs1110/2020fa/assignments/a6/
-### Score 100%
 
 
 
